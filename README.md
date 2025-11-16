@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="Screenshot 2025-11-16 185505" src="https://github.com/user-attachments/assets/7f02075a-fee6-45af-ad47-4361dff01e19" /># Responsive Landing Page
 
 ## 📌 Project Overview
 This project is a simple responsive landing page built using HTML and CSS.
